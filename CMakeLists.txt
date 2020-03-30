@@ -13,7 +13,7 @@ set(CMAKE_CSharp_FLAGS "/langversion:latest")
 set_property(GLOBAL PROPERTY VS_DOTNET_TARGET_FRAMEWORK_VERSION "v4.6.1")
 
 # SET Custom variable 
-set(UnityPath "C:/Program\ Files/Unity/Hub/Editor/2018.4.5f1" CACHE STRING "Path to Unity Installation")
+set(UnityPath "C:/Program\ Files/Unity2018.2.16" CACHE STRING "Path to Unity Installation")
 set(MonoPath "C:/Program\ Files/Mono" CACHE STRING "Path to Mono Installation")
 
 # Set Default to Debug
